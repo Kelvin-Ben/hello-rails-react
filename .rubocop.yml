@@ -1,0 +1,12 @@
+# .rubocop.yml
+require:
+  - rubocop-rails
+
+AllCops:
+  TargetRubyVersion: 3.0
+  Exclude:
+    - 'db/**/*'
+    - 'bin/**/*'
+
+Rails:
+  Enabled: true
