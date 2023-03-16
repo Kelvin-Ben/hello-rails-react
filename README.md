@@ -156,7 +156,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Kelvin-Ben/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,7 +173,6 @@ Anyone who finds this project interesting is welcome to give it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank Microverse for the opportunity
-- Also, original design idea by [Gregoire Vella on Behance](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
